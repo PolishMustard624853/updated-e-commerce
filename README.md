@@ -1,10 +1,9 @@
 # E-Commerce-Backend-HW
 
 
-
 ## Description
 
-This assignment is to build the back end for an e-commerce site by configuring an express.js API and use sequelize to interact with MySql.
+This assignment is to build the back end for an e-commerce websitesite by configuring an express.js API and use sequelize to interact with MySql.
 
 
 ## Installation
@@ -28,13 +27,15 @@ npm start
 
 ## Usage
 
-This application is used for data entry for client based information via E-Commerce
+This application is used for data entry for client based information via E-Commerce.
 
 
 ## Links
 ### Github
 
+https://github.com/PolishMustard624853/updated-e-commerce
 
+https://polishmustard624853.github.io/updated-e-commerce
 
 
 ### Video Walkthrough
