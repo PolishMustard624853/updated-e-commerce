@@ -23,7 +23,7 @@ router.get('/', (req, res) => {
     });
 });
 
-// get one product
+// get single product
 router.get('/:id', (req, res) => {
   Product.findOne({
     where: {

@@ -8,13 +8,13 @@ const categoryData = [
     category_name: 'Shorts',
   },
   {
-    category_name: 'Shoes',
+    category_name: 'Music',
   },
   {
     category_name: 'Hats',
   },
   {
-    category_name: 'Music',
+    category_name: 'Shoes',
   },
 ];
 

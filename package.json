@@ -1,7 +1,7 @@
 {
   "name": "e-commerce",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Description",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/PolishMustard624853/E-Commerce"
+    "url": "git+https://github.com/PolishMustard624853/E-Commerce.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Connor",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.16"
@@ -24,5 +24,9 @@
     "express": "^4.18.1",
     "mysql2": "^2.1.0",
     "sequelize": "^5.21.7"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/PolishMustard624853/E-Commerce/issues"
+  },
+  "homepage": "https://github.com/PolishMustard624853/E-Commerce#readme"
 }
